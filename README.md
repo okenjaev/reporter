@@ -9,4 +9,4 @@ Usage:<br/>
   * Run script in a git repo directory
 
 Screenshot:<br>
-![GitHub Logo](/img/repo_demo.png)
+![reporter_demo](/img/reporter_demo.png)
